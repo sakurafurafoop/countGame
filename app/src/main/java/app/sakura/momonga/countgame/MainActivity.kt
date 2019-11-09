@@ -87,7 +87,6 @@ class MainActivity : AppCompatActivity() {
         }else {
             return "Bad!"
         }
-
     }
 
     fun nextStage(){
